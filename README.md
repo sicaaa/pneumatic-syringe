@@ -1,4 +1,6 @@
-# pneumatic-syringe
+# Pneumatic-Syringe
+
+This project documents a pneumatic actuation system using a 50 ml syringe.
 
 ![PXL_20250904_094917903](https://github.com/user-attachments/assets/ba78e31a-3be7-4ae5-af16-1e3e77ad2b6b)
 
@@ -8,16 +10,16 @@
 
 
 
-Components:
+## Components
 
-Basic Stepper Code
+Basic Stepper Code:
 https://lastminuteengineers.com/28byj48-stepper-motor-arduino-tutorial/
 
-28BYJ-48 Stepper Motor
+28BYJ-48 Stepper Motor:
 https://www.roboter-bausatz.de/p/schrittmotor-28byj48-inkl.-treiber
 
-3D Print for 50ml Syringe
+3D Print for 50ml Syringe:
 https://www.thingiverse.com/thing:3097206
 
-50ml Syringe
+50ml Syringe:
 https://www.amazon.de/dp/B09MH5M5J1?th=1
